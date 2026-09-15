@@ -3,7 +3,7 @@
 # Olá, eu sou o Gabriel Calebe 👋
 
 <a href="https://github.com/calebedevback">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+NestJS;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%7C+TypeScript+%7C+Go;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@ Construo aplicações full stack do frontend à infraestrutura, de João Pessoa 
 
 - 🔭 Atualmente trabalhando em: desenvolvimento full stack na Npro
 - 🌱 Explorando: arquitetura de microsserviços e integrações com LLMs
-- 💬 Pergunte-me sobre: React, Node.js/NestJS
+- 💬 Pergunte-me sobre: Python, TypeScript, Go
 - 📫 Contato: veja os links abaixo
 
 <div align="center">
