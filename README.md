@@ -28,7 +28,7 @@ Construo aplicações full stack do frontend à infraestrutura, de João Pessoa 
 ### 🛠️ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,go,python,docker,mongodb,postgres,git" alt="Stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,nestjs,go,python,docker,mongodb,postgres,supabase,prisma,tailwind,vercel,railway,git,github,vscode" alt="Stack icons" />
 </div>
 
 ---
