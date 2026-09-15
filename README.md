@@ -24,8 +24,3 @@ AI Automation Engineer (AI SDR) na **Ciel Tech**, de João Pessoa (PB) — autom
 Arquitetura de microsserviços orientada a eventos: coletor em Python → fila RabbitMQ → worker em Go → API NestJS → dashboard em React. Rodando 100% em Docker Compose.
 
 **[Melloz](https://github.com/calebedevback/Melloz)** — plataforma de gestão de eventos (cadastro, login e lista de participantes), full stack com React e Node, deploy em Vercel/Railway.
-
-## 📊 Atividade
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=calebedevback&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calebedevback&theme=dark&hide_border=true)
