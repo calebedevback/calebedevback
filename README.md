@@ -1,19 +1,19 @@
 <div align="center">
 
-# Olá, eu sou o Gabriel Calebe 👋
+# Hi, I'm Gabriel Calebe 👋
 
 <a href="https://github.com/calebedevback">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%7C+TypeScript+%7C+Go;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+TypeScript+%7C+Go;Always+learning+something+new" alt="Typing SVG" />
 </a>
 
 </div>
 
-Construo aplicações full stack do frontend à infraestrutura, de João Pessoa (PB) 🇧🇷 — atualmente na **Npro**.
+I build full stack applications from frontend to infrastructure, based in João Pessoa, Brazil 🇧🇷 — currently at **Npro**.
 
-- 🔭 Atualmente trabalhando em: desenvolvimento full stack na Npro
-- 🌱 Explorando: arquitetura de microsserviços e integrações com LLMs
-- 💬 Pergunte-me sobre: Python, TypeScript, Go
-- 📫 Contato: veja os links abaixo
+- 🔭 Currently working on: full stack development at Npro
+- 🌱 Exploring: microservices architecture and LLM integrations
+- 💬 Ask me about: Python, TypeScript, Go
+- 📫 Contact: see the links below
 
 <div align="center">
 
@@ -33,17 +33,17 @@ Construo aplicações full stack do frontend à infraestrutura, de João Pessoa 
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Featured Projects
 
-**[Sistema de Clima Full-Stack (Desafio GDASH)](https://github.com/calebedevback/fullstack-weather-challenge)**
-Arquitetura de microsserviços orientada a eventos: coletor em Python → fila RabbitMQ → worker em Go → API NestJS → dashboard em React. Rodando 100% em Docker Compose.
+**[Full-Stack Weather System (GDASH Challenge)](https://github.com/calebedevback/fullstack-weather-challenge)**
+Event-driven microservices architecture: Python collector → RabbitMQ queue → Go worker → NestJS API → React dashboard. Running 100% on Docker Compose.
 
-**[Melloz / Hapnow](https://github.com/calebedevback/Melloz)** — plataforma de descoberta e criação de eventos locais, full stack com React e Node, deploy em Vercel/Railway.
+**[Melloz / Hapnow](https://github.com/calebedevback/Melloz)** — local events discovery and creation platform, full stack with React and Node, deployed on Vercel/Railway.
 
 ---
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=calebedevback&color=58A6FF&style=flat&label=Visualiza%C3%A7%C3%B5es+do+perfil)
+![Profile views](https://komarev.com/ghpvc/?username=calebedevback&color=58A6FF&style=flat&label=Profile+views)
 
 </div>
