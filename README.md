@@ -1,10 +1,10 @@
 # Olá, eu sou o Gabriel Calebe 👋
 
-AI Automation Engineer (AI SDR) na **Npro**, de João Pessoa (PB) — automatizando vendas e suporte com IA, e construindo aplicações full stack do frontend à infraestrutura.
+Desenvolvedor Full Stack na **Npro**, de João Pessoa (PB) — construindo aplicações full stack do frontend à infraestrutura.
 
-- 🔭 Atualmente trabalhando em: automações de vendas e suporte com IA na Npro
+- 🔭 Atualmente trabalhando em: desenvolvimento full stack na Npro
 - 🌱 Explorando: arquitetura de microsserviços e integrações com LLMs
-- 💬 Pergunte-me sobre: React, Node.js/NestJS, automação com IA
+- 💬 Pergunte-me sobre: React, Node.js/NestJS
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/gabrielcalebee/)
 
 ## 🛠️ Stack
