@@ -2,7 +2,7 @@
 
 AI Automation Engineer (AI SDR) na **Npro**, de João Pessoa (PB) — automatizando vendas e suporte com IA, e construindo aplicações full stack do frontend à infraestrutura.
 
-- 🔭 Atualmente trabalhando em: automações de vendas e suporte com IA na Ciel Tech
+- 🔭 Atualmente trabalhando em: automações de vendas e suporte com IA na Npro
 - 🌱 Explorando: arquitetura de microsserviços e integrações com LLMs
 - 💬 Pergunte-me sobre: React, Node.js/NestJS, automação com IA
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/gabrielcalebee/)
