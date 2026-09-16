@@ -47,3 +47,13 @@ Event-driven microservices architecture: Python collector → RabbitMQ queue →
 ![Profile views](https://komarev.com/ghpvc/?username=calebedevback&color=58A6FF&style=flat&label=Profile+views)
 
 </div>
+
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=calebedevback&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=calebedevback&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165" />
+</div>div>
