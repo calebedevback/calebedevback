@@ -56,4 +56,13 @@ Event-driven microservices architecture: Python collector → RabbitMQ queue →
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=calebedevback&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=calebedevback&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165" />
-</div>div>
+</div>
+
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=calebedevback&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
