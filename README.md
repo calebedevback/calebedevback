@@ -18,7 +18,7 @@ I build full stack applications from frontend to infrastructure, based in João 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcalebee/)
-[![Website](https://img.shields.io/badge/hapnow.com.br-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hapnow.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://devgabrielcalebe.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebedevback@gmail.com)
 
 </div>
