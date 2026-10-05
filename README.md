@@ -10,10 +10,11 @@
 
 I build full stack applications from frontend to infrastructure, based in João Pessoa, Brazil 🇧🇷 — currently at **Npro**.
 
-- 🔭 Currently working on: full stack development at Npro
-- 🌱 Exploring: microservices architecture and LLM integrations
-- 💬 Ask me about: Python, TypeScript, Go
-- 📫 Contact: see the links below
+- 💼 **Software Engineer @ Npro** — SaaS products and custom systems for clients, from architecture to deploy
+- 💳 Built payment services for a fintech: Pix and cards, idempotent webhooks and queued withdrawals on AWS SQS
+- 🎓 Computer Engineering student (2022 — 2026)
+- 🌱 Exploring: event-driven systems and LLM integrations
+- 💬 Ask me about: TypeScript, Next.js, Node/NestJS, Go, Python
 
 <div align="center">
 
