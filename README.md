@@ -3,7 +3,7 @@
 # Hi, I'm Gabriel Calebe 👋
 
 <a href="https://github.com/calebedevback">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+TypeScript+%7C+Go;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Npro;Full+Stack+Developer;Python+%7C+TypeScript+%7C+Go" alt="Typing SVG" />
 </a>
 
 </div>
