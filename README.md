@@ -37,6 +37,17 @@ I build full stack applications from frontend to infrastructure, based in João 
 
 ### 🚀 Featured Projects
 
+#### Work at Npro & clients
+> Private code — case studies on the [portfolio](https://devgabrielcalebe.vercel.app/#projetos).
+
+**FPA — São Paulo Athletics Federation** — management system for memberships, competitions and street-race approval. Next.js as a BFF, own Express + PostgreSQL API and JWT kept only in httpOnly cookies, with role-based access.
+
+**Cutfy** — mobile-first management SaaS for barbershops and salons: scheduling, online booking, tabs, cash register, commissions and inventory, tested end to end with Playwright.
+
+**Nebula Payment** — a fintech's modular back end: transactional API for Pix and cards, webhooks API and a withdrawal worker on AWS SQS, on a shared Prisma core.
+
+#### Open source & own products
+
 **[Full-Stack Weather System (GDASH Challenge)](https://github.com/calebedevback/fullstack-weather-challenge)**
 Event-driven microservices architecture: Python collector → RabbitMQ queue → Go worker → NestJS API → React dashboard. Running 100% on Docker Compose.
 
