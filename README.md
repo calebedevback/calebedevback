@@ -21,6 +21,7 @@ I build full stack applications from frontend to infrastructure, based in João 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcalebee/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://devgabrielcalebe.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebedevback@gmail.com)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-0F172A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://devgabrielcalebe.vercel.app/resume-gabriel-calebe-en.pdf)
 
 </div>
 
