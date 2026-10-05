@@ -51,7 +51,9 @@ I build full stack applications from frontend to infrastructure, based in João 
 **[Full-Stack Weather System (GDASH Challenge)](https://github.com/calebedevback/fullstack-weather-challenge)**
 Event-driven microservices architecture: Python collector → RabbitMQ queue → Go worker → NestJS API → React dashboard. Running 100% on Docker Compose.
 
-**[Melloz / Hapnow](https://github.com/calebedevback/Melloz)** — local events discovery and creation platform, full stack with React and Node, deployed on Vercel/Railway.
+**[Melloz / Hapnow](https://github.com/calebedevback/Melloz)** — local events discovery and creation platform, full stack with React and Node, deployed on Vercel/Railway. Live at [hapnow.com.br](https://hapnow.com.br).
+
+**[Portfolio](https://devgabrielcalebe.vercel.app)** — my portfolio: React + Vite, PT/EN, live architecture diagrams, interactive terminal and an admin panel that publishes through GitHub.
 
 ---
 
