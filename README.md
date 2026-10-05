@@ -37,7 +37,7 @@ I build full stack applications from frontend to infrastructure, based in João 
 
 ### 🚀 Featured Projects
 
-#### Work at Npro & clients
+#### Professional work
 > Private code — case studies on the [portfolio](https://devgabrielcalebe.vercel.app/#projetos).
 
 **FPA — São Paulo Athletics Federation** — management system for memberships, competitions and street-race approval. Next.js as a BFF, own Express + PostgreSQL API and JWT kept only in httpOnly cookies, with role-based access.
