@@ -1,0 +1,37 @@
+name: Atualizar arte do perfil
+
+# Atualiza o gráfico de contribuições e o card de estatísticas todo dia.
+"on":
+  schedule:
+    - cron: "17 9 * * *"   # ~06:17 em Brasília
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    env:
+      GH_USER: ${{ github.repository_owner }}
+      PROMPT_NAME: calebe
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/fetch_contributions.py
+      - run: python scripts/render_heatmap.py
+      - run: python scripts/render_stats.py
+      - name: Gerar retrato ASCII (só se ainda não existir)
+        run: |
+          if [ ! -f ascii.svg ]; then
+            if [ -f foto.png ]; then python scripts/make_ascii.py foto.png; else python scripts/make_ascii.py; fi
+          fi
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: atualiza arte do perfil [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg ascii.svg"
