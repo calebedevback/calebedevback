@@ -79,9 +79,3 @@ Event-driven microservices architecture: Python collector → RabbitMQ queue →
 </table>
 
 </div>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=calebedevback&color=58A6FF&style=flat&label=Profile+views)
-
-</div>
