@@ -56,6 +56,9 @@ def main():
     fs = chh * 0.86
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
            'font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">',
+           '<style>.l{opacity:0;animation:ty .25s ease-out both}'
+           '@keyframes ty{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}'
+           '@media (prefers-reduced-motion:reduce){.l{opacity:1!important;animation:none!important}}</style>',
            '<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/>'
            '<stop offset="1" stop-color="#0d1117"/></linearGradient></defs>',
            f'<rect width="{W}" height="{H}" rx="12" fill="url(#bg)"/>',
@@ -65,15 +68,12 @@ def main():
            '<circle cx="52" cy="15" r="5" fill="#27c93f"/>',
            f'<text x="{W / 2}" y="19" fill="#7d8590" font-size="12" text-anchor="middle">{PROMPT}@github: ~$ ./portrait.sh</text>']
     tw = W - 2 * PAD
-    step = 0.05
+    step = 0.04
     for i, line in enumerate(lines):
         y = BAR + PAD + i * chh
-        t = i * step
-        out.append(f'<clipPath id="r{i}"><rect x="{PAD}" y="{y:.2f}" height="{chh + 1:.2f}" width="0">'
-                   f'<animate attributeName="width" from="0" to="{tw}" begin="{t:.2f}s" dur="{step:.2f}s" fill="freeze"/>'
-                   f'</rect></clipPath>')
-        out.append(f'<text clip-path="url(#r{i})" xml:space="preserve" x="{PAD}" y="{y + fs:.2f}" fill="#c9d1d9" '
-                   f'font-size="{fs:.2f}" textLength="{tw}" lengthAdjust="spacing">{escape(line)}</text>')
+        out.append(f'<text class="l" style="animation-delay:{i * step:.2f}s" xml:space="preserve" x="{PAD}" '
+                   f'y="{y + fs:.2f}" fill="#c9d1d9" font-size="{fs:.2f}" textLength="{tw}" '
+                   f'lengthAdjust="spacing">{escape(line)}</text>')
     end = len(lines) * step
     # cursor piscando no final
     out.append(f'<rect x="{PAD}" y="{H - PAD - chh:.2f}" width="{cw * 1.2:.2f}" height="{chh:.2f}" fill="#39d353" opacity="0">'
