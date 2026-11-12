@@ -56,15 +56,3 @@ Event-driven microservices architecture: Python collector → RabbitMQ queue →
 
 **[Portfolio](https://devgabrielcalebe.vercel.app)** — my portfolio: React + Vite, PT/EN, live architecture diagrams, interactive terminal and an admin panel that publishes through GitHub.
 
----
-
-### 📊 Activity
-
-<div align="center">
-
-<h4><code>calebe@github ~ $ ./contributions.sh</code></h4>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Gabriel Calebe's GitHub contribution graph" />
-
-
-</div>
