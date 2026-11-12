@@ -31,7 +31,7 @@ I build full stack applications from frontend to infrastructure, based in João 
 ### 🛠️ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,nestjs,go,python,docker,mongodb,postgres,supabase,prisma,tailwind,vercel,railway,git,github,vscode" alt="Stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,express,nestjs,go,python,rabbitmq,docker,mongodb,postgres,supabase,prisma,tailwind,vercel,railway,git,github,vscode" alt="Stack icons" />
 </div>
 
 ---
@@ -52,7 +52,9 @@ I build full stack applications from frontend to infrastructure, based in João 
 **[Full-Stack Weather System (GDASH Challenge)](https://github.com/calebedevback/fullstack-weather-challenge)**
 Event-driven microservices architecture: Python collector → RabbitMQ queue → Go worker → NestJS API → React dashboard. Running 100% on Docker Compose.
 
-**[Melloz / Hapnow](https://github.com/calebedevback/Melloz)** — local events discovery and creation platform, full stack with React and Node, deployed on Vercel/Railway. Live at [hapnow.com.br](https://hapnow.com.br).
+**[Letz — Nightlife Social](https://github.com/calebedevback/Letz-NS)** — social network for nightlife: discover events, see where your friends are going out and share your own plans. React 19 + TypeScript + Vite, Zustand and Framer Motion. Live at [letz-ns.vercel.app](https://letz-ns.vercel.app).
+
+**Melloz / Hapnow** — local events discovery and creation platform, full stack with React and Node, deployed on Vercel/Railway. Live at [hapnow.com.br](https://hapnow.com.br).
 
 **[Portfolio](https://devgabrielcalebe.vercel.app)** — my portfolio: React + Vite, PT/EN, live architecture diagrams, interactive terminal and an admin panel that publishes through GitHub.
 
