@@ -66,16 +66,5 @@ Event-driven microservices architecture: Python collector → RabbitMQ queue →
 
 <img src="./contrib-heatmap.svg" width="860" alt="Gabriel Calebe's GitHub contribution graph" />
 
-<br>
-<br>
-
-<h4><code>calebe@github ~ $ whoami</code></h4>
-
-<table>
-<tr>
-<td valign="top"><img src="./ascii.svg" width="420" alt="Gabriel Calebe, ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Gabriel Calebe's streak and contribution stats" /></td>
-</tr>
-</table>
 
 </div>
